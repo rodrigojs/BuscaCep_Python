@@ -1,6 +1,6 @@
 # BuscaCEP - (Brasil) - Python
 
-Sistema de Busca de Ceps feito em Python
+Sistema de Busca de CEPS brasileiros feito em Python
 
 Para rodar:
 
